@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.5 on win32)" generated="20230929 00:17:24.409" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\lanao\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Dado que o usuário está na tela de login do site">
+<msg timestamp="20230929 00:17:25.134" level="FAIL">No keyword with name 'Dado que o usuário está na tela de login do site' found.</msg>
+<status status="FAIL" starttime="20230929 00:17:25.134" endtime="20230929 00:17:25.134"/>
+</kw>
+<kw name="E preenche o campo “E-mail” com um email inválido">
+<status status="NOT RUN" starttime="20230929 00:17:25.136" endtime="20230929 00:17:25.136"/>
+</kw>
+<kw name="E preenche o campo “Senha”">
+<status status="NOT RUN" starttime="20230929 00:17:25.137" endtime="20230929 00:17:25.137"/>
+</kw>
+<kw name="Quando clicar no botão “ENTRAR”">
+<status status="NOT RUN" starttime="20230929 00:17:25.138" endtime="20230929 00:17:25.138"/>
+</kw>
+<kw name="Então o sistema apresenta a mensagem “E-mail ou senha inválidos.” na tela">
+<status status="NOT RUN" starttime="20230929 00:17:25.138" endtime="20230929 00:17:25.139"/>
+</kw>
+<status status="PASS" starttime="20230929 00:17:24.457" endtime="20230929 00:17:32.274"/>
+</kw>
+<status status="PASS" starttime="20230929 00:17:24.456" endtime="20230929 00:17:32.274"/>
+</test>
+<status status="PASS" starttime="20230929 00:17:24.411" endtime="20230929 00:17:32.275"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
